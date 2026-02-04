@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Go2_ROS2/第4章 unitree go2 例程/4.1 巡航与位置获取/4.1.1 案例分析.md",
+                "file": "记事本/software/AI——Vibe Coding.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.1.1 案例分析"
+              "title": "AI——Vibe Coding"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 237.5
   },
   "right": {
     "id": "06ef12f37ad41adb",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Go2_ROS2/第4章 unitree go2 例程/4.1 巡航与位置获取/4.1.1 案例分析.md",
+                "file": "周记/1 宇树Go2环境搭建与通信建立.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "4.1.1 案例分析 的反向链接列表"
+              "title": "1 宇树Go2环境搭建与通信建立 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Go2_ROS2/第4章 unitree go2 例程/4.1 巡航与位置获取/4.1.1 案例分析.md",
+                "file": "周记/1 宇树Go2环境搭建与通信建立.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "4.1.1 案例分析 的出链列表"
+              "title": "1 宇树Go2环境搭建与通信建立 的出链列表"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Go2_ROS2/第4章 unitree go2 例程/4.1 巡航与位置获取/4.1.1 案例分析.md",
+                "file": "周记/1 宇树Go2环境搭建与通信建立.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "4.1.1 案例分析 的大纲"
+              "title": "1 宇树Go2环境搭建与通信建立 的大纲"
             }
           }
         ]
@@ -183,6 +183,36 @@
       "bases:新建数据库": false
     }
   },
-  "active": "29054db62662c50b",
-  "lastOpenFiles": []
+  "active": "4f02803f722876ca",
+  "lastOpenFiles": [
+    "Go2_ROS2/后期.md",
+    "Go2_ROS2/第4章 unitree go2 例程/4.3 导航/4.3.3 导航python.md",
+    "Go2_ROS2/第4章 unitree go2 例程/4.3 导航/4.3.2 导航C++.md",
+    "Go2_ROS2/第4章 unitree go2 例程/4.1 巡航与位置获取/4.1.1 巡航C++.md",
+    "Go2_ROS2/第4章 unitree go2 例程/4.3 导航/4.3.1 导航案例分析.md",
+    "Go2_ROS2/第4章 unitree go2 例程/4.2 巡航启停/4.2.3 巡航启停python.md",
+    "Go2_ROS2/第4章 unitree go2 例程/4.2 巡航启停/4.2.2 巡航启停C++.md",
+    "Go2_ROS2/第4章 unitree go2 例程/4.1 巡航与位置获取/4.1.3 位置获取 C++.md",
+    "Go2_ROS2/第4章 unitree go2 例程/4.1 巡航与位置获取/4.1.4 位置获取python.md",
+    "未命名.md",
+    "未命名 1.md",
+    "Go2_ROS2/第4章 unitree go2 例程/4.2 巡航启停/4.2.1 案例简介.md",
+    "Go2_ROS2/第3章 unitree_go2_ROS2基础功能包/3.4 ROS2驱动包/1.28 问题.md",
+    "Go2_ROS2/第4章 unitree go2 例程/4.1 巡航与位置获取/4.1.2 巡航python.md",
+    "记事本/software/AI——Vibe Coding.md",
+    "记事本/software",
+    "记事本",
+    "周记/1 宇树Go2环境搭建与通信建立.md",
+    "周记/2 宇树 GO2 机器狗功能包开发与可视化集成.md",
+    "周记",
+    "Go2_ROS2/第3章 unitree_go2_ROS2基础功能包/3.4 ROS2驱动包/3.4.3 python.md",
+    "Go2_ROS2/第3章 unitree_go2_ROS2基础功能包/3.4 ROS2驱动包/3.4.2 C++.md",
+    "Go2_ROS2/第3章 unitree_go2_ROS2基础功能包/3.3 rviz2可视化/3.3.1 可视化.md",
+    "Go2_ROS2/第2章 消息接口/2 机器人控制/2.2 电机控制.md",
+    "Go2_ROS2/第1章 环境搭建/1.2 网络配置.md",
+    "Go2_ROS2/第1章 环境搭建/1.3 连接测试.md",
+    "Go2_ROS2/第1章 环境搭建/1.4 案例（C++）.md",
+    "Go2_ROS2/第1章 环境搭建/1.5 案例（python）.md",
+    "Go2_ROS2/第1章 环境搭建/1.1 unitree_ros2 安装.md"
+  ]
 }
